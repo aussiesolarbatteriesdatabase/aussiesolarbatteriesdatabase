@@ -7,9 +7,9 @@ main:
   - title: "Inverter"
     url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/inverter
   - title: "Procedures"
-    https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/procedures
+    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/procedures
   - title: "Tips and Tricks"
-    https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/tips
+    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/tips
   - title: "Customer Q&A"
     url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/q-a
   # - title: "About"
