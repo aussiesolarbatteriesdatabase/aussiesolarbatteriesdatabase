@@ -16,11 +16,7 @@ jobs:
           fetch-depth: 0
 
       - name: Fix Git safe.directory issue
-        run: |
-          git config --global --add safe.directory $GITHUB_WORKSPACE
-          git config --global --add safe.directory /github/workspace
-          git config --global --add safe.directory $GITHUB_WORKSPACE/docs
-          git config --global --add safe.directory /github/workspace/docs
+        run: git config --global --add safe.directory /github/workspace
 
       - uses: ruby/setup-ruby@v1
         with:
