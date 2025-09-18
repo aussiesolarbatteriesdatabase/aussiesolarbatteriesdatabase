@@ -17,11 +17,6 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Trust GitHub workspace directory
-      run: |
-        git config --global --add safe.directory $GITHUB_WORKSPACE
-        git config --global --add safe.directory /github/workspace
-
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
@@ -36,18 +31,28 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-bundler-
 
-    - name: Install - Bundler
-      env:
-        MAKE: make -j2
-      working-directory: docs/
-      run: |
-        bundle config set path vendor/bundle
-        bundle install --jobs=4 --retry=3
-        bundle clean
+- name: Install - Bundler
+  env:
+    MAKE: make -j2
+  working-directory: docs/
+  run: |
+    git config --global --add safe.directory $GITHUB_WORKSPACE
+    git config --global --add safe.directory /github/workspace
+    git config --global --add safe.directory $GITHUB_WORKSPACE/docs
+    git config --global --add safe.directory /github/workspace/docs
+    bundle config set path vendor/bundle
+    bundle install --jobs=4 --retry=3
+    bundle clean
 
-    - name: Update Algolia index
-      working-directory: docs/
-      run: bundle exec jekyll algolia push
-      env:
-        ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-      continue-on-error: true
+- name: Update Algolia index
+  working-directory: docs/
+  run: |
+    git config --global --add safe.directory $GITHUB_WORKSPACE
+    git config --global --add safe.directory /github/workspace
+    git config --global --add safe.directory $GITHUB_WORKSPACE/docs
+    git config --global --add safe.directory /github/workspace/docs
+    bundle exec jekyll algolia push
+  env:
+    ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+  continue-on-error: true
+
