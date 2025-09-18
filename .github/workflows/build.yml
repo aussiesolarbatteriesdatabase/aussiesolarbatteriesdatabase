@@ -20,9 +20,8 @@ jobs:
 
     - name: Trust GitHub workspace directory
       run: |
-          git config --global --add safe.directory $GITHUB_WORKSPACE
-          git config --global --add safe.directory /github/workspace
-
+        git config --global --add safe.directory $GITHUB_WORKSPACE
+        git config --global --add safe.directory /github/workspace
 
     - uses: ruby/setup-ruby@v1
       with:
