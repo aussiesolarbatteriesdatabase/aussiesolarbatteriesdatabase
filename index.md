@@ -7,7 +7,7 @@ description: A demo website for my job, made by Jeylahn
 
 Hi! Welcome to this database demo made by Jeylahn Yildirim.
 
-I've decided to make this in my spare time with the markdown knowledge that I have. This website is ultimately, incredibly simple and not indicative of the final product that I want to give. It's just a test demo to document to my lovely boss Stephen, and to show Naz, Paul, Evie and the rest of the staff at Aussie Solar Batteries what I am capable of. Hi guys! I hope you have good luck today with your calls!
+I've decided to make this in my spare time with the markdown knowledge that I have. This website is ultimately, incredibly simple and not indicative of the final product that I want to give. It's just a test demo to document to my boss Stephen, and to show Naz, Paul, Evie and the rest of the staff at Aussie Solar Batteries what I am capable of. Hi guys! I hope you have good luck today with your calls!
 
 Hopefully, you all are able to enjoy it as much as I did while making it.
 
