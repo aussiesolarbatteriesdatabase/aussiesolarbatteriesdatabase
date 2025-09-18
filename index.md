@@ -14,3 +14,4 @@ Hopefully, you all are able to enjoy it as much as I did while making it.
 This is the Minimal Mistakes theme. I've coded it using markdown and based it off of a repo. I'm hosting it currently on github pages as an <u>enterprise</u>, this means anyone creating a github account would be able to make one. Enterprises are relatively cheap and can be made privately so only we can access it.
 
 Enjoy the website! The search button on the top right functions and can lead to wherever you desire.
+

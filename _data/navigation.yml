@@ -1,7 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Battery"
+    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/battery
+  - title: "Solar 101"
+    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/solar
+  - title: "Inverter"
+    https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/inverter
+  - title: "Procedures"
+    https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/procedures
+  - title: "Tips and Tricks"
+    https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/tips
+  - title: "Customer Q&A"
+    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/q-a
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
