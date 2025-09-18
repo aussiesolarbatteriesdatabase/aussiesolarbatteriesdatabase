@@ -9,9 +9,10 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
+      - name: Fix Git safe directory (resolve dubious ownership)
+        run: git config --global --add safe.directory /github/workspace
         with:
           fetch-depth: 0
 
