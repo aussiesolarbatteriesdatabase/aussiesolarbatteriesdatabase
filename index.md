@@ -1,17 +1,12 @@
 ---
 layout: single
 classes: wide
-title: Aussie Solar Batteries Database/Wiki
-description: A demo website for my job, made by Jeylahn
+title: Aussie Solar Batteries Staff Database
+description: An information database for our staff team.
 ---
 
-Hi! Welcome to this database demo made by Jeylahn Yildirim.
+This website is a database for all information in Aussie Solar Batteries and is designed for the sales team.
 
-I've decided to make this in my spare time with the markdown knowledge that I have. This website is ultimately, incredibly simple and not indicative of the final product that I want to give. It's just a test demo to document to Stephen, and to show Naz, Paul, Evie and the rest of the staff at Aussie Solar Batteries what I am capable of. Hi guys! I hope you have good luck today with your calls!
+To use this database, please use the bar at the top of the page to lead you to multiple sections. Use the <i class="fa-solid fa-magnifying-glass"></i> search bar to look up specific information, and use the <i class="fa-solid fa-bars"></i> Menu button to show more sections of the bar on a mobile device.
 
-Hopefully, you all are able to enjoy it as much as I did while making it.
-
-This is the Minimal Mistakes theme. I've coded it using markdown and based it off of a repo. I'm hosting it currently on github pages as an <u>enterprise</u>, this means anyone creating a github account would be able to make one. Enterprises are relatively cheap and can be made privately so only we can access it.
-
-Enjoy the website! The search button on the top right functions and can lead to wherever you desire.
-
+If you have any feedback in regards to adding or changing the information found on this website, please [click here](https://forms.gle/jUyCiCLTRmCxLwCW9) to fill in a form or speak to Jeylahn or Stephen.
