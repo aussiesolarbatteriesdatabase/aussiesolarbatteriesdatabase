@@ -9,9 +9,9 @@ This page will act as a directory. Featuring multiple useful tools, links to pag
 
 Test words
 
-- Be Honest
-- Jargon
-- Simplicity
-- Tactics
+- ROI Calculator
+- Staff
+- Satellite
+- Google Maps
 
 <sup>**Last Updated**: 20th September, 2025 (20/09/2025) by **Jeylahn Yildirim**</sup>
