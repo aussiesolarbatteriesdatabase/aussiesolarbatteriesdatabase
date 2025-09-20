@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "Battery"
-    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/battery
   - title: "Solar 101"
-    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/solar
-  - title: "Inverter"
-    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/inverter
+    url: /solar/
+  - title: "Hardware"
+    url: /hardware/
   - title: "Procedures"
-    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/procedures
-  - title: "Tips and Tricks"
-    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/tips
+    url: /procedures/
+  - title: "Tips"
+    url: /tips/
   - title: "Customer Q&A"
-    url: https://testingwebsiteforwork.github.io/aussiesolarbatteriesdatabase/q-a
+    url: /q-a/
+  - title: "Directory"
+    url: /directory/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
