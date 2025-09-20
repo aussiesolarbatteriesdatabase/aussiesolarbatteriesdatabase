@@ -9,7 +9,7 @@ This page acts as a directory for all of our equipment that we use, It will feat
 
 WIP Directory
 
-[Battery](aussiesolarbatteriesdatabase/hardware/battery/)  
+[Battery](/aussiesolarbatteriesdatabase/hardware/battery/)  
 [Inverter](/aussiesolarbatteriesdatabase/hardware/inverter/)  
 [Panels](/aussiesolarbatteriesdatabase/hardware/panels/)  
 [CHINT Meter](/aussiesolarbatteriesdatabase/hardware/chint-meter/)
