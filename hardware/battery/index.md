@@ -33,6 +33,12 @@ description:
 
 <sup>1 - This is something we purchase from Bunnings. We don't mix the concrete.</sup>
 
+## Upgrades
+
+- DC Coupling is an additional $500 and allows the solar panels to charge the battery while not being powered by the grid.
+- Comes with 2 backup load connections, each additional connection is $300
+  - If the customer has Type A RBCO circuits, we can secure their whole home for an additional $1,000
+
 ## Installation Requirements
 - Needs 2sqm (2x2m around the battery) of clearance to install correctly. This is about 1m on all sides around the battery excluding the wall.
 - Must be in non-habitable room. Please check **Clearance Requirement Table** for more information.
