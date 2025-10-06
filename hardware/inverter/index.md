@@ -7,8 +7,8 @@ description:
 
 | KH8-KH10 Inverter Dimensions<sup>1</sup> | Size (mm) |
 | ---------------------------------------- | --------- |
-| Height                                   | 450       |
-| Width                                    | 527       |
+| Width                                    | 450       |
+| Height                                   | 527       |
 | Depth                                    | 208       |
 
 <sup>1 - Our most commonly sold inverters are KH8 and KH10 model FOXESS inverters. </sup>  
