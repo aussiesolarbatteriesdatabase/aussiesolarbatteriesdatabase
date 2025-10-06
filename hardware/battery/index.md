@@ -24,9 +24,13 @@ description:
 
 ## Safety Features
 - Double layer casing for impact protection
+
 - Automatic fire system that uses Aerosol to put out fires
+
 - **(Offered by us) Complimentary extras added if needed at no extra charge e.g. Bollards, Smoke Alarm, precast fireproof Concrete Slab<sup>1</sup> for the battery to stand on**
-- 10 years manufacturer warranty if something were to ever happen.  
+
+- 10 years manufacturer warranty if something were to ever happen.
+
 <sup>1 - This is something we purchase from Bunnings. We don't mix the concrete.</sup>
 
 ## Installation Requirements
@@ -41,8 +45,6 @@ description:
 | Habitable Room | **Cannot be installed** | ≥ **600 mm** from any windows or exits<br> ≥ **900 mm** below ceiling | Habitable rooms are where people are spending most of their time in e.g. Loungeroom, Bedrooms, etc. |
 | Non-habitable Room | Preferrably in garage, storage or workshop | ≥ **600 mm** from any windows or exits<br> ≥ **900 mm** below ceiling<br> ≥ **1500 mm** from portable gas cylinders<br> ≥ **3500 mm** from installed gas cylinders | Inhabitable rooms are rooms where people spend the least amount of time in e.g. Garage, storage, workshops etc. |
 
-![Diagram listing whether it is a habitable room or not](https://aussiesolarbatteriesdatabase.github.io/aussiesolarbatteriesdatabase/assets/habitableroom.png "Habitable vs Non-Habitable Rooms")
-
-![](C:\Users\super\OneDrive\Documents\GitHub\aussiesolarbatteriesdatabase\assets\images\habitableroom.png)
+<img src="aussiesolarbatteriesdatabase.githib.io/aussiesolarbateriesdatabase/assets/images/filename.jpg" alt="Habitable Room Diagram">
 
 <sup>**Last Updated**: 2th September, 2025 (26/09/2025) by **Jeylahn Yildirim**</sup>
