@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: FOX ESS EQ4800 42kWh battery.
+title: FOX ESS EQ4800 42kWh battery
 description: 
 ---
 
