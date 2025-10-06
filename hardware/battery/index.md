@@ -41,6 +41,8 @@ description:
 | Habitable Room | **Cannot be installed** | ≥ **600 mm** from any windows or exits<br> ≥ **900 mm** below ceiling | Habitable rooms are where people are spending most of their time in e.g. Loungeroom, Bedrooms, etc. |
 | Non-habitable Room | Preferrably in garage, storage or workshop | ≥ **600 mm** from any windows or exits<br> ≥ **900 mm** below ceiling<br> ≥ **1500 mm** from portable gas cylinders<br> ≥ **3500 mm** from installed gas cylinders | Inhabitable rooms are rooms where people spend the least amount of time in e.g. Garage, storage, workshops etc. |
 
-![Diagram listing whether it is a habitable room or not](assets\images\habitableroom.png "Habitable vs Non-Habitable Rooms")
+![Diagram listing whether it is a habitable room or not](https://aussiesolarbatteriesdatabase.github.io/aussiesolarbatteriesdatabase/assets/habitableroom.png "Habitable vs Non-Habitable Rooms")
+
+![](C:\Users\super\OneDrive\Documents\GitHub\aussiesolarbatteriesdatabase\assets\images\habitableroom.png)
 
 <sup>**Last Updated**: 2th September, 2025 (26/09/2025) by **Jeylahn Yildirim**</sup>
