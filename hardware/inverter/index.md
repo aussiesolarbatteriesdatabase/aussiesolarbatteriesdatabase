@@ -41,4 +41,4 @@ You might get this question from a few customers who might look at the informati
 
 Think of the inverter like the valve of a water pipe, a bigger inverter simply allows for more electricity to go through the grid.
 
-<sup>**Last Updated**: 20th September, 2025 (20/09/2025) by **Jeylahn Yildirim**</sup>
+<sup>**Last Updated**: 6th October, 2025 (06/10/2025) by **Jeylahn Yildirim**</sup>
