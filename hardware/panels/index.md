@@ -15,9 +15,10 @@ description:
 
 ## General Information
 
-- IP-68 Rated
-- Operates at 40-85 degrees Celsius
+- IP-68 Rated, dust-tight and can be submerged in water beyond 1m depth for more than 30 minutes.
+- Made with Anodised Aluminium Alloy, operates at top performance while at 40-85+ degrees Celsius
 - Able to withstand most extreme environment conditions.
+- Power Tolerance of 0 - ~+3%
 - 25 year Product Warranty
 - 30 year Performance Warranty
 
