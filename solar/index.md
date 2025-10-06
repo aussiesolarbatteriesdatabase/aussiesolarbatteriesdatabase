@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: Solar 101
 description: 
 toc: true
