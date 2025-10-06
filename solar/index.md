@@ -24,7 +24,7 @@ Here's how each component functions.
 - **Electrical Panel** (a.k.a **Switchboard**) - Controls the electricity of the home directly.
 - **Energy Meter** - Located in the Meterbox, shows how much electricity is being used at the home, how much was exported to the grid, and how much was taken from the grid.
 
-<u>**Don't homes mainly use DC Electricity?**</u>  
+**<u>Don't homes mainly use DC Electricity?</u>**  
 Some devices in homes <u>do</u> use DC Electricity, but a large majority of home devices e.g. lights, fridges and other appliances use AC Electricity. DC Electricity is mainly used for computers and phones, typically anything that uses a battery is using DC Electricity.
 
 AC is generally more efficient cost-wise to build homes with and is generally much more safer to control in case of failure, while DC is typically more powerful and requires more expensive equipment to convert.
