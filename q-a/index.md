@@ -5,13 +5,10 @@ title: Customer Q&A
 description: 
 ---
 
-This page will feature customer questions that cannot be answered directly by looking at the other pages, these are for the more obscure questions that you'd be running to one of the more experienced sales team members about.
+This page contains multiple miscellanous customer questions that are asked by customers that don't fit with any other section in the database.
 
-Test words
+**Protip**: You can use ctrl+f to find certain words on the page to automatically jump to the question.
 
-- Mobile Panels
-- What is
-- Something Else
-- Trickle Charging
+Questions will be added as they are asked or encountered. Feel free to let Jeylahn know if you have any questions that you'd like to add here.
 
-<sup>**Last Updated**: 20th September, 2025 (20/09/2025) by **Jeylahn Yildirim**</sup>
+<sup>**Last Updated**: 6th October, 2025 (06/10/2025) by **Jeylahn Yildirim**</sup>

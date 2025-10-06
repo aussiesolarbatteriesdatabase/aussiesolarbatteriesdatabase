@@ -1,17 +1,21 @@
 ---
 layout: single
-classes: wide
 title: Procedures
 description: 
+toc: true
 ---
 
-This page will feature a multitude of procedures, as well as an appropriate archive for when certain procedures aren't in place. This can be for instances such as tagging certain customers, or how to arrange for quotes to be sent out.
+This is a list of our current procedures in the workplace.
 
-Test words
+## Queensland (QLD)
 
-- Quotes
-- Queensland
-- Inspection Fee
-- Ergon Energy
+- Needs to have their system DC Coupled or Grid Supply Devices (GSD's) need to be attached when installing
+- **No Ergon Energy Customers**
 
-<sup>**Last Updated**: 20th September, 2025 (20/09/2025) by **Jeylahn Yildirim**</sup>
+## ACT
+
+- $1,000 Inspection Fee
+- No Apartment Complexes, only residential houses
+- Distance is tracked from our warehouse in NSW
+
+<sup>**Last Updated**: 6th October, 2025 (06/10/2025) by **Jeylahn Yildirim**</sup>
