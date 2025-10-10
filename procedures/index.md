@@ -5,7 +5,7 @@ description:
 toc: true
 ---
 
-This is a list of our current procedures in the workplace.
+This is a list of our current procedures in the workplace. These are mainly for sales, but some are for compliance and other departments.
 
 ## Queensland (QLD)
 
@@ -19,4 +19,8 @@ This is a list of our current procedures in the workplace.
 - No Apartment Complexes, only residential houses
 - Distance is tracked from our warehouse in NSW
 
-<sup>**Last Updated**: 6th October, 2025 (06/10/2025) by **Jeylahn Yildirim**</sup>
+## SA
+
+- (Compliance) Check the electricity bill of the customer, if their feed in rate is $0.80 per unit payback or $0.44 or $0.40, we need to contact the customer and inform them that installing the system will lose their premium buyback rates. We need written confirmation that the customer understands to proceed with the installation
+
+<sup>**Last Updated**: 11th October, 2025 (11/10/2025) by **Jeylahn Yildirim**</sup>
