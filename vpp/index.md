@@ -9,7 +9,7 @@ Virtual Power Plants (**VPP**) are a system that have multiple power resources t
 
 There are two main VPP's that are compatible with our FOXESS Batteries, these are:
 
-- [Amber Energy](amber)
+- [Amber Electric](amber)
 - [Globird](globird)
 
 ## Amber vs Globird
