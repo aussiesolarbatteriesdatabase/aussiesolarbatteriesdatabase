@@ -27,6 +27,6 @@ As of **November 10th**, our prices are increasing across the board for our batt
 
 <sup>1</sup> - From **10 Nov**, <u>our packages do not include any backup loads</u>. Each backup load is <u>$300</u>.
 
-<u>**DC Coupling is not recommended**</u>. If customer insists on DC coupling, the price is an additional $1,000 <u>regardless of state</u>.
+**<u>DC Coupling is not recommended</u>**. If customer insists on DC coupling, the price is an additional $1,000 <u>regardless of state</u>.
 
 <sup>**Last Updated**: 30th October, 2025 (30/10/2025) by **Jeylahn Yildirim**</sup>
