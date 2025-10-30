@@ -21,9 +21,12 @@ The inverters that we sell work in conjunction with the batteries and systems th
 
 ## General Information
 
+- Charges and discharges 5kw.
 - 98.6% max. efficiency
 - 80-500V super wide battery voltage range
 - Within 10ms UPS-level switching
 - Max. 18A PV input current
 - 100% full load charge and discharge
 - IP66 protection degree
+
+<sup>**Last Updated**: 30th October, 2025 (06/10/2025) by **Jeylahn Yildirim**</sup>
