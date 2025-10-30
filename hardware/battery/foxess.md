@@ -1,17 +1,19 @@
 ---
 layout: single
 classes: wide
-title: FOX ESS EQ4800 42kWh battery
+title: FOX ESS EQ4800-L9 LiFePO<sub>4</sub> 42kWh battery 
 description: 
 ---
 
-| General Battery Specifications |
-| --- |
-| Height | 1352 mm (~1.4m) |
-| Width | 570 mm (~60cm) |
-| Depth | 380 mm (~40cm) |
+| EQ4800-L9 Specifications | Dimensions (mm) |
+| --- | --- |
+| Width | 570 |
+| Height | 1352 |
+| Depth | 380 |
 
 <sup>[A detailed datasheet is located here.](https://www.fox-ess.com/wp-content/uploads/2024/12/EN-EQ4800-Datasheet-V1.2-20241111.pdf)</sup>
+<sup>[FOX ESS Battery Manufacturer Warranty is located here.](https://www.fox-ess.com/download/upfiles/AU-BATTERY-WARRANTY-V2.5-20250723.pdf)</sup>
+<sup>[FOX ESS EQ4800-L9 User Manual is located here.](https://www.fox-ess.com/download/upfiles/EN-EQ4800-User-Manual-V1.0.2-20240428.pdf)</sup>
 
 ## General Information
 - 42kWh battery with a usable 41.93kWh of storage
@@ -35,8 +37,8 @@ description:
 
 ## Upgrades
 
-- DC Coupling is an additional $500 and allows the solar panels to charge the battery while not being powered by the grid.
-- Comes with 2 backup load connections, each additional connection is $300
+- DC Coupling is an additional $1,000 and allows the solar panels to charge the battery while not being powered by the grid.
+- Can have backup connectors, each connection is $300
   - If the customer has Type A RBCO circuits, we can secure their whole home for an additional $1,000
 
 ## Installation Requirements
@@ -53,4 +55,4 @@ description:
 
 <img src="https://aussiesolarbatteriesdatabase.github.io/aussiesolarbatteriesdatabase/assets/images/habitableroom.png" alt="Habitable Room Diagram">
 
-<sup>**Last Updated**: 6th October, 2025 (6/10/2025) by **Jeylahn Yildirim**</sup>
+<sup>**Last Updated**: 30th October, 2025 (6/10/2025) by **Jeylahn Yildirim**</sup>

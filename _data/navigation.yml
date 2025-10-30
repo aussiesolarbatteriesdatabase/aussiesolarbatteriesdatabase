@@ -6,6 +6,8 @@ main:
     url: /hardware/
   - title: "Procedures"
     url: /procedures/
+  - title: "VPP"
+    url: /vpp/
   - title: "Tips"
     url: /tips/
   - title: "Customer Q&A"

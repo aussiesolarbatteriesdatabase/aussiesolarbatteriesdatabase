@@ -21,6 +21,7 @@ This is a list of our current procedures in the workplace. These are mainly for 
 
 ## SA
 
+- **GSD Box Required for ALL SA Customers.**
 - (Compliance) Check the electricity bill of the customer, if their feed in rate is $0.80 per unit payback or $0.44 or $0.40, we need to contact the customer and inform them that installing the system will lose their premium buyback rates. We need written confirmation that the customer understands to proceed with the installation
 
-<sup>**Last Updated**: 11th October, 2025 (11/10/2025) by **Jeylahn Yildirim**</sup>
+<sup>**Last Updated**: 29th October, 2025 (29/10/2025) by **Jeylahn Yildirim**</sup>
