@@ -7,7 +7,7 @@ description: An information database for our staff team.
 
 This website is a database for all information in Aussie Solar Batteries and is designed for all staff to use. 
 
-<u>**This is an internal staff-only website. Do not send this website to customers.**</u>
+**<u>This is an internal staff-only website. Do not send this website to customers.</u>**
 
 To use this database, please use the bar at the top of the page to lead you to multiple sections. Use the <i class="fa-solid fa-magnifying-glass"></i> search bar to look up specific information, and use the <i class="fa-solid fa-bars"></i> Menu button to show more sections of the bar on a mobile device.
 
