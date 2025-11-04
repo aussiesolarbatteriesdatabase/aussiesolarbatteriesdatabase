@@ -5,7 +5,7 @@ title: FOX ESS H1-5.0-E-G2 (Basic)
 description: 
 ---
 
-**NOTE: WE DO NOT SELL THIS INVERTER AFTER NOV 10 2025, THIS PAGE EXISTS JUST TO KEEP YOU INFORMED.**
+**NOTE: WE DO NOT SELL THIS INVERTER, ALL CUSTOMERS THAT HAVE BEEN QUOTED THIS INVERTER WILL NEED THEIR CONTRACTS TO BE AMENDED.**
 
 | H1-5.0-E-G2 Inverter Dimensions<sup></sup> | Size (mm) |
 | ------------------------------------------ | --------- |
@@ -25,4 +25,4 @@ The inverters that we sell work in conjunction with the batteries and systems th
 - Is IP-65 Rated, meaning weatherproof and dustproof as the battery is.
 - 10 years manufacturer warranty.
 
-<sup>**Last Updated**: 30th October, 2025 (06/10/2025) by **Jeylahn Yildirim**</sup>
+<sup>**Last Updated**: 4th November, 2025 (04/11/2025) by **Jeylahn Yildirim**</sup>

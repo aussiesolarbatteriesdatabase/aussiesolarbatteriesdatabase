@@ -14,6 +14,16 @@ Questions will be added as they are asked or encountered. Feel free to let Jeyla
 ## Sales-Related Q&A
 
 <details>
+    <summary><b>Can we install the customer's battery if they already have a battery?</b></summary>
+    <p>
+        <b>Yes.</b> In the past, we would DC couple the system, however, in reality, we don't need to DC couple the system. We can just install the battery as-is into their current system. The batteries won't be able to communicate with eachother, and the customer will have to use two different apps to manage the batteries and see their total storage between these apps.
+    </p>
+    <p>
+        The customer can set it up in their apps for the order in which their batteries charge, so this doesn't affect their system whatsoever.
+    </p>
+</details>
+
+<details>
     <summary><b>Do our batteries work off-grid?</b></summary>
     <p>
         <b>No.</b> The customer does not qualify for the rebates if their battery is for an off-grid system. We also do not have the installers currently to install off-grid systems.
@@ -46,8 +56,4 @@ Questions will be added as they are asked or encountered. Feel free to let Jeyla
         Compliance knows that the customer has had an inverter based on their electricity bill, and their "Main Inverter Supply Switch"/"Main Solar Supply Switch". If their meterbox contains those switches, Compliance needs their inverter brand and model number.
     </p>
 </details>
-
-
-
-
-<sup>**Last Updated**: 30th October, 2025 (30/10/2025) by **Jeylahn Yildirim**</sup>
+<sup>**Last Updated**: 4th November, 2025 (04/11/2025) by **Jeylahn Yildirim**</sup>

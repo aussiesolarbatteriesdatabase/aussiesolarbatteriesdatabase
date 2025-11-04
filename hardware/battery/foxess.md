@@ -11,8 +11,8 @@ description:
 | Height | 1352 |
 | Depth | 380 |
 
-<sup>[A detailed datasheet is located here.](https://www.fox-ess.com/wp-content/uploads/2024/12/EN-EQ4800-Datasheet-V1.2-20241111.pdf)</sup>
-<sup>[FOX ESS Battery Manufacturer Warranty is located here.](https://www.fox-ess.com/download/upfiles/AU-BATTERY-WARRANTY-V2.5-20250723.pdf)</sup>
+<sup>[A detailed datasheet is located here.](https://www.fox-ess.com/wp-content/uploads/2024/12/EN-EQ4800-Datasheet-V1.2-20241111.pdf)</sup>  
+<sup>[FOX ESS Battery Manufacturer Warranty is located here. ](https://www.fox-ess.com/download/upfiles/AU-BATTERY-WARRANTY-V2.5-20250723.pdf)</sup>  
 <sup>[FOX ESS EQ4800-L9 User Manual is located here.](https://www.fox-ess.com/download/upfiles/EN-EQ4800-User-Manual-V1.0.2-20240428.pdf)</sup>
 
 ## General Information

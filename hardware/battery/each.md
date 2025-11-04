@@ -11,8 +11,8 @@ description:
 | Height                     | 1010            |
 | Depth                      | 115             |
 
-<sup>[A detailed datasheet is located here.](https://download.website.xin/contents/sitefiles3606/18030953/files/139577..pdf?response-content-disposition=inline%3Bfilename%3DM10battery-datasheet.pdf&auth_key=1761811727-83b7d77907fc433e943789410d3a6046-0-c65aca5fef3691b43d23c85c36086774)</sup>
-<sup>[EachEnergy Manufacturer Warranty is located here.](https://download.website.xin/contents/sitefiles3606/18030953/files/153642..pdf?response-content-disposition=inline%3Bfilename%3DWarranty%2Band%2BService%2BTerms%2Band%2BConditions.pdf&auth_key=1761811542-ba5024afd09c49df86f47652380797a1-0-796650003dbd9d541cd2a96ea5243a04)</sup>
+<sup>[A detailed datasheet is located here.](https://download.website.xin/contents/sitefiles3606/18030953/files/139577..pdf?response-content-disposition=inline%3Bfilename%3DM10battery-datasheet.pdf&auth_key=1761811727-83b7d77907fc433e943789410d3a6046-0-c65aca5fef3691b43d23c85c36086774)</sup>  
+<sup>[EachEnergy Manufacturer Warranty is located here.](https://download.website.xin/contents/sitefiles3606/18030953/files/153642..pdf?response-content-disposition=inline%3Bfilename%3DWarranty%2Band%2BService%2BTerms%2Band%2BConditions.pdf&auth_key=1761811542-ba5024afd09c49df86f47652380797a1-0-796650003dbd9d541cd2a96ea5243a04)</sup>  
 <sup>[EachEnergy M10 User Manual is located here.](https://download.website.xin/contents/sitefiles3606/18030953/files/155470..pdf?response-content-disposition=inline%3Bfilename%3DM10_User%2BManual_EN.pdf&auth_key=1761811586-aa7f9275c81d4f6eb34827d0d1674cb8-0-282908fef831ed1a59fdc4673ff382bd)</sup>
 
 ## General Information

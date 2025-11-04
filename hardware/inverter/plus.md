@@ -11,6 +11,8 @@ description:
 | Height                   | 527       |
 | Depth                    | 208       |
 
+
+
 <sup> [A detailed datasheet can be found here.](https://www.fox-ess.com/wp-content/uploads/2024/12/EN-KH-KA-Datasheet-V2.0-20241127.pdf)</sup>  
 <sup>[FOX ESS Inverter Manufacturer Warranty can be found here.](https://www.fox-ess.com/download/upfiles/INVERTER-WARRANTY-AU-20251024.pdf)</sup>  
 <sup>[FOX ESS KH/KA User Manual can be found here](https://www.fox-ess.com/download/upfiles/EN-KHKA-User-manual-V1.5-20250114.pdf)</sup>
